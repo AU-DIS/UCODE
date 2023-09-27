@@ -25,7 +25,16 @@ $conda create --name <env> --file requirements.txt
 Run main.py for an example result of non-overlapping community detection.
 <br>Run mainOUCODE.py for an example result of overlapping community detection.
 
+# Cite 
 
+
+@article{Mor23ucode,
+<br>author = {Moradan, Atefeh and Draganov, Andrew and Mottin, Davide and Assent, Ira},
+<br>title = {UCoDe: unified community detection with graph convolutional networks},
+<br>journal = {Machine Learning},
+<br>publisher = {Springer},
+<br>year = {2023}
+<br>}
 
 
 

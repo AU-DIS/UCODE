@@ -28,12 +28,13 @@ Run main.py for an example result of non-overlapping community detection.
 # Cite 
 
 
-@article{Mor23ucode,
+@article{moradan2023ucode,
 <br>author = {Moradan, Atefeh and Draganov, Andrew and Mottin, Davide and Assent, Ira},
 <br>title = {UCoDe: unified community detection with graph convolutional networks},
 <br>journal = {Machine Learning},
+<br>pages={1--24},
+<br>year = {2023},
 <br>publisher = {Springer},
-<br>year = {2023}
 <br>}
 
 
